@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "electronVersion": "1.0.0",
+  "backendVersion": "1.0.0",
+  "downloadUrl": "https://github.com/.../Shovia-Setup-1.0.1.exe",
+  "changelog": "- Added new node: OpenApp\n- Fixed device connection"
+}
