@@ -1,0 +1,14 @@
+{
+  "shovia": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/bebright27/shovia/releases/download/v1.0.0/Shovia-Setup-1.0.0.exe",
+    "changelog": "- Initial release",
+    "force_update": false
+  },
+  "agent": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/bebright27/shovia/releases/download/agent-v1.0.0/agent.zip",
+    "changelog": "- Initial release",
+    "force_update": false
+  }
+}
